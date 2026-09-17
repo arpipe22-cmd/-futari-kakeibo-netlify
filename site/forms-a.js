@@ -67,4 +67,3 @@ function buySheet(i) {
     <button class="primary">購入済みにする</button>
   </form>`);
 }
-function invSheet(v) {
